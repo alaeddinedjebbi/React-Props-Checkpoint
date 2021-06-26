@@ -1,0 +1,6 @@
+.FullName {
+    display: flex;
+    align-items: center;
+    color: blue;
+    font-style: italic;
+}
