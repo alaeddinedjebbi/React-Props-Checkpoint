@@ -3,4 +3,5 @@
     align-items: center;
     color: blue;
     font-style: italic;
+    flex-direction: column;
 }

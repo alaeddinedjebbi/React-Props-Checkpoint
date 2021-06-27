@@ -4,8 +4,6 @@ import Bio from './components/Profile/bio/Bio';
 import Profession from './components/Profile/profession/Profession';
 
 function App() {
-   
-  
   return (
     <div className="App">
       <FullName name={`ALAEDDINE DJEBBI`} />
